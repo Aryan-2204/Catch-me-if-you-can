@@ -1,0 +1,30 @@
+{
+    "high_scores": [
+        {
+            "turns": 153,
+            "time": 78,
+            "difficulty": 5
+        },
+        {
+            "turns": 138,
+            "time": 48,
+            "difficulty": 5
+        },
+        {
+            "turns": 122,
+            "time": 46,
+            "difficulty": 5
+        },
+        {
+            "turns": 119,
+            "time": 82,
+            "difficulty": 5
+        },
+        {
+            "turns": 85,
+            "time": 41,
+            "difficulty": 5
+        }
+    ],
+    "survival_streak": 0
+}

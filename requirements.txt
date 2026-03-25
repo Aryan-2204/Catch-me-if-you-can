@@ -1,0 +1,4 @@
+pygame-ce==2.5.7
+pytest>=7.0
+pyinstaller>=5.11.0
+ruff>=0.22.0
